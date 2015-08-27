@@ -1,0 +1,32 @@
+C:\VETS\Calculations #1.9 - Full Report\FrameGrabber\bin\x64\Debug\JockerSoft.Media.dll
+C:\VETS\Calculations #1.9 - Full Report\FrameGrabber\bin\x64\Debug\JockerSoft.Media.pdb
+C:\VETS\Calculations #1.9 - Full Report\FrameGrabber\bin\x64\Debug\Interop.DexterLib.dll
+C:\VETS\Calculations #1.9 - Full Report\FrameGrabber\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\VETS\Calculations #1.9 - Full Report\FrameGrabber\obj\x64\Debug\Interop.DexterLib.dll
+C:\VETS\Calculations #1.9 - Full Report\FrameGrabber\obj\x64\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS\Calculations #1.9 - Full Report\FrameGrabber\obj\x64\Debug\JockerSoft.Media.dll
+C:\VETS\Calculations #1.9 - Full Report\FrameGrabber\obj\x64\Debug\JockerSoft.Media.pdb
+C:\Graphics Libraries\Binaries\ITKApp 3.2 x64\ImageViewer\FrameGrabber\bin\x64\Debug\JockerSoft.Media.dll
+C:\Graphics Libraries\Binaries\ITKApp 3.2 x64\ImageViewer\FrameGrabber\bin\x64\Debug\JockerSoft.Media.pdb
+C:\Graphics Libraries\Binaries\ITKApp 3.2 x64\ImageViewer\FrameGrabber\bin\x64\Debug\Interop.DexterLib.dll
+C:\Graphics Libraries\Binaries\ITKApp 3.2 x64\ImageViewer\FrameGrabber\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Graphics Libraries\Binaries\ITKApp 3.2 x64\ImageViewer\FrameGrabber\obj\x64\Debug\Interop.DexterLib.dll
+C:\Graphics Libraries\Binaries\ITKApp 3.2 x64\ImageViewer\FrameGrabber\obj\x64\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\Graphics Libraries\Binaries\ITKApp 3.2 x64\ImageViewer\FrameGrabber\obj\x64\Debug\JockerSoft.Media.dll
+C:\Graphics Libraries\Binaries\ITKApp 3.2 x64\ImageViewer\FrameGrabber\obj\x64\Debug\JockerSoft.Media.pdb
+C:\Projects\VETS 4D\FrameGrabber\bin\x64\Debug\JockerSoft.Media.dll
+C:\Projects\VETS 4D\FrameGrabber\bin\x64\Debug\JockerSoft.Media.pdb
+C:\Projects\VETS 4D\FrameGrabber\bin\x64\Debug\Interop.DexterLib.dll
+C:\Projects\VETS 4D\FrameGrabber\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Projects\VETS 4D\FrameGrabber\obj\x64\Debug\Interop.DexterLib.dll
+C:\Projects\VETS 4D\FrameGrabber\obj\x64\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\Projects\VETS 4D\FrameGrabber\obj\x64\Debug\JockerSoft.Media.dll
+C:\Projects\VETS 4D\FrameGrabber\obj\x64\Debug\JockerSoft.Media.pdb
+C:\Projects\Backups\VETS 4D\FrameGrabber\bin\x64\Debug\JockerSoft.Media.dll
+C:\Projects\Backups\VETS 4D\FrameGrabber\bin\x64\Debug\JockerSoft.Media.pdb
+C:\Projects\Backups\VETS 4D\FrameGrabber\bin\x64\Debug\Interop.DexterLib.dll
+C:\Projects\Backups\VETS 4D\FrameGrabber\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Projects\Backups\VETS 4D\FrameGrabber\obj\x64\Debug\Interop.DexterLib.dll
+C:\Projects\Backups\VETS 4D\FrameGrabber\obj\x64\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\Projects\Backups\VETS 4D\FrameGrabber\obj\x64\Debug\JockerSoft.Media.dll
+C:\Projects\Backups\VETS 4D\FrameGrabber\obj\x64\Debug\JockerSoft.Media.pdb

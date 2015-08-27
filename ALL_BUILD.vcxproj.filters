@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="..\..\..\Source\InsightApplications-3.20.0\ImageViewer\CMakeLists.txt" />
+    <CustomBuild Include="..\CMakeFiles\93b54fa582bd69e0dd0a73e5766c627d\ALL_BUILD.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CMakeFiles\ALL_BUILD" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CB7A4981-03A7-4BA0-AD45-B39F85C79C79}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

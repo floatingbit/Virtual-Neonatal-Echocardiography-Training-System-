@@ -1,0 +1,64 @@
+C:\VETS Source Code\Calculations #1.9 - Full Report\FrameGrabber\bin\x86\Debug\JockerSoft.Media.dll
+C:\VETS Source Code\Calculations #1.9 - Full Report\FrameGrabber\bin\x86\Debug\JockerSoft.Media.pdb
+C:\VETS Source Code\Calculations #1.9 - Full Report\FrameGrabber\bin\x86\Debug\Interop.DexterLib.dll
+C:\VETS Source Code\Calculations #1.9 - Full Report\FrameGrabber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VETS Source Code\Calculations #1.9 - Full Report\FrameGrabber\obj\x86\Debug\Interop.DexterLib.dll
+C:\VETS Source Code\Calculations #1.9 - Full Report\FrameGrabber\obj\x86\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS Source Code\Calculations #1.9 - Full Report\FrameGrabber\obj\x86\Debug\JockerSoft.Media.dll
+C:\VETS Source Code\Calculations #1.9 - Full Report\FrameGrabber\obj\x86\Debug\JockerSoft.Media.pdb
+C:\VETS Source Code\Calculations #1.9 - Full Report - Copy\FrameGrabber\bin\x86\Debug\JockerSoft.Media.dll
+C:\VETS Source Code\Calculations #1.9 - Full Report - Copy\FrameGrabber\bin\x86\Debug\JockerSoft.Media.pdb
+C:\VETS Source Code\Calculations #1.9 - Full Report - Copy\FrameGrabber\bin\x86\Debug\Interop.DexterLib.dll
+C:\VETS Source Code\Calculations #1.9 - Full Report - Copy\FrameGrabber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VETS Source Code\Calculations #1.9 - Full Report - Copy\FrameGrabber\obj\x86\Debug\Interop.DexterLib.dll
+C:\VETS Source Code\Calculations #1.9 - Full Report - Copy\FrameGrabber\obj\x86\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS Source Code\Calculations #1.9 - Full Report - Copy\FrameGrabber\obj\x86\Debug\JockerSoft.Media.dll
+C:\VETS Source Code\Calculations #1.9 - Full Report - Copy\FrameGrabber\obj\x86\Debug\JockerSoft.Media.pdb
+C:\VETS Source Code\Calculations Package\FrameGrabber\bin\x86\Debug\JockerSoft.Media.dll
+C:\VETS Source Code\Calculations Package\FrameGrabber\bin\x86\Debug\JockerSoft.Media.pdb
+C:\VETS Source Code\Calculations Package\FrameGrabber\bin\x86\Debug\Interop.DexterLib.dll
+C:\VETS Source Code\Calculations Package\FrameGrabber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VETS Source Code\Calculations Package\FrameGrabber\obj\x86\Debug\Interop.DexterLib.dll
+C:\VETS Source Code\Calculations Package\FrameGrabber\obj\x86\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS Source Code\Calculations Package\FrameGrabber\obj\x86\Debug\JockerSoft.Media.dll
+C:\VETS Source Code\Calculations Package\FrameGrabber\obj\x86\Debug\JockerSoft.Media.pdb
+C:\VETS\TrakStar\Version #2.5 - Merging the calculations package\FrameGrabber\bin\x86\Debug\JockerSoft.Media.dll
+C:\VETS\TrakStar\Version #2.5 - Merging the calculations package\FrameGrabber\bin\x86\Debug\JockerSoft.Media.pdb
+C:\VETS\TrakStar\Version #2.5 - Merging the calculations package\FrameGrabber\bin\x86\Debug\Interop.DexterLib.dll
+C:\VETS\TrakStar\Version #2.5 - Merging the calculations package\FrameGrabber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VETS\TrakStar\Version #2.5 - Merging the calculations package\FrameGrabber\obj\x86\Debug\Interop.DexterLib.dll
+C:\VETS\TrakStar\Version #2.5 - Merging the calculations package\FrameGrabber\obj\x86\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS\TrakStar\Version #2.5 - Merging the calculations package\FrameGrabber\obj\x86\Debug\JockerSoft.Media.dll
+C:\VETS\TrakStar\Version #2.5 - Merging the calculations package\FrameGrabber\obj\x86\Debug\JockerSoft.Media.pdb
+C:\VETS\TrakStar\Version #2.6 - Undo option\FrameGrabber\bin\x86\Debug\JockerSoft.Media.dll
+C:\VETS\TrakStar\Version #2.6 - Undo option\FrameGrabber\bin\x86\Debug\JockerSoft.Media.pdb
+C:\VETS\TrakStar\Version #2.6 - Undo option\FrameGrabber\bin\x86\Debug\Interop.DexterLib.dll
+C:\VETS\TrakStar\Version #2.6 - Undo option\FrameGrabber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VETS\TrakStar\Version #2.6 - Undo option\FrameGrabber\obj\x86\Debug\Interop.DexterLib.dll
+C:\VETS\TrakStar\Version #2.6 - Undo option\FrameGrabber\obj\x86\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS\TrakStar\Version #2.6 - Undo option\FrameGrabber\obj\x86\Debug\JockerSoft.Media.dll
+C:\VETS\TrakStar\Version #2.6 - Undo option\FrameGrabber\obj\x86\Debug\JockerSoft.Media.pdb
+C:\VETS\TrakStar\Version #2.7 - Making final changes + adding last two options\FrameGrabber\bin\x86\Debug\JockerSoft.Media.dll
+C:\VETS\TrakStar\Version #2.7 - Making final changes + adding last two options\FrameGrabber\bin\x86\Debug\JockerSoft.Media.pdb
+C:\VETS\TrakStar\Version #2.7 - Making final changes + adding last two options\FrameGrabber\bin\x86\Debug\Interop.DexterLib.dll
+C:\VETS\TrakStar\Version #2.7 - Making final changes + adding last two options\FrameGrabber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VETS\TrakStar\Version #2.7 - Making final changes + adding last two options\FrameGrabber\obj\x86\Debug\Interop.DexterLib.dll
+C:\VETS\TrakStar\Version #2.7 - Making final changes + adding last two options\FrameGrabber\obj\x86\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS\TrakStar\Version #2.7 - Making final changes + adding last two options\FrameGrabber\obj\x86\Debug\JockerSoft.Media.dll
+C:\VETS\TrakStar\Version #2.7 - Making final changes + adding last two options\FrameGrabber\obj\x86\Debug\JockerSoft.Media.pdb
+C:\VETS\TrakStar\Version #2.8 - Resolving the GDI\FrameGrabber\bin\x86\Debug\JockerSoft.Media.dll
+C:\VETS\TrakStar\Version #2.8 - Resolving the GDI\FrameGrabber\bin\x86\Debug\JockerSoft.Media.pdb
+C:\VETS\TrakStar\Version #2.8 - Resolving the GDI\FrameGrabber\bin\x86\Debug\Interop.DexterLib.dll
+C:\VETS\TrakStar\Version #2.8 - Resolving the GDI\FrameGrabber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VETS\TrakStar\Version #2.8 - Resolving the GDI\FrameGrabber\obj\x86\Debug\Interop.DexterLib.dll
+C:\VETS\TrakStar\Version #2.8 - Resolving the GDI\FrameGrabber\obj\x86\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS\TrakStar\Version #2.8 - Resolving the GDI\FrameGrabber\obj\x86\Debug\JockerSoft.Media.dll
+C:\VETS\TrakStar\Version #2.8 - Resolving the GDI\FrameGrabber\obj\x86\Debug\JockerSoft.Media.pdb
+C:\VETS Source Code\TrakStar\Version #2.8 - Resolving the GDI\FrameGrabber\bin\x86\Debug\JockerSoft.Media.dll
+C:\VETS Source Code\TrakStar\Version #2.8 - Resolving the GDI\FrameGrabber\bin\x86\Debug\JockerSoft.Media.pdb
+C:\VETS Source Code\TrakStar\Version #2.8 - Resolving the GDI\FrameGrabber\bin\x86\Debug\Interop.DexterLib.dll
+C:\VETS Source Code\TrakStar\Version #2.8 - Resolving the GDI\FrameGrabber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\VETS Source Code\TrakStar\Version #2.8 - Resolving the GDI\FrameGrabber\obj\x86\Debug\Interop.DexterLib.dll
+C:\VETS Source Code\TrakStar\Version #2.8 - Resolving the GDI\FrameGrabber\obj\x86\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS Source Code\TrakStar\Version #2.8 - Resolving the GDI\FrameGrabber\obj\x86\Debug\JockerSoft.Media.dll
+C:\VETS Source Code\TrakStar\Version #2.8 - Resolving the GDI\FrameGrabber\obj\x86\Debug\JockerSoft.Media.pdb

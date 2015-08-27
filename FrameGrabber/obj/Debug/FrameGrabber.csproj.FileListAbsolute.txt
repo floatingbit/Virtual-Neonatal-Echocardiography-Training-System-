@@ -1,0 +1,88 @@
+C:\VETS\Calculations\FrameGrabber\bin\Debug\JockerSoft.Media.dll
+C:\VETS\Calculations\FrameGrabber\bin\Debug\JockerSoft.Media.pdb
+C:\VETS\Calculations\FrameGrabber\bin\Debug\Interop.DexterLib.dll
+C:\VETS\Calculations\FrameGrabber\obj\Debug\ResolveAssemblyReference.cache
+C:\VETS\Calculations\FrameGrabber\obj\Debug\Interop.DexterLib.dll
+C:\VETS\Calculations\FrameGrabber\obj\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS\Calculations\FrameGrabber\obj\Debug\JockerSoft.Media.dll
+C:\VETS\Calculations\FrameGrabber\obj\Debug\JockerSoft.Media.pdb
+C:\VETS\Calculations #1.1\FrameGrabber\bin\Debug\JockerSoft.Media.dll
+C:\VETS\Calculations #1.1\FrameGrabber\bin\Debug\JockerSoft.Media.pdb
+C:\VETS\Calculations #1.1\FrameGrabber\bin\Debug\Interop.DexterLib.dll
+C:\VETS\Calculations #1.1\FrameGrabber\obj\Debug\ResolveAssemblyReference.cache
+C:\VETS\Calculations #1.1\FrameGrabber\obj\Debug\Interop.DexterLib.dll
+C:\VETS\Calculations #1.1\FrameGrabber\obj\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS\Calculations #1.1\FrameGrabber\obj\Debug\JockerSoft.Media.dll
+C:\VETS\Calculations #1.1\FrameGrabber\obj\Debug\JockerSoft.Media.pdb
+C:\VETS\Calculations #1.4 - Beginning with 2D Calculations\FrameGrabber\bin\Debug\JockerSoft.Media.dll
+C:\VETS\Calculations #1.4 - Beginning with 2D Calculations\FrameGrabber\bin\Debug\JockerSoft.Media.pdb
+C:\VETS\Calculations #1.4 - Beginning with 2D Calculations\FrameGrabber\bin\Debug\Interop.DexterLib.dll
+C:\VETS\Calculations #1.4 - Beginning with 2D Calculations\FrameGrabber\obj\Debug\ResolveAssemblyReference.cache
+C:\VETS\Calculations #1.4 - Beginning with 2D Calculations\FrameGrabber\obj\Debug\Interop.DexterLib.dll
+C:\VETS\Calculations #1.4 - Beginning with 2D Calculations\FrameGrabber\obj\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS\Calculations #1.4 - Beginning with 2D Calculations\FrameGrabber\obj\Debug\JockerSoft.Media.dll
+C:\VETS\Calculations #1.4 - Beginning with 2D Calculations\FrameGrabber\obj\Debug\JockerSoft.Media.pdb
+C:\VETS\Calculations #1.5\FrameGrabber\bin\Debug\JockerSoft.Media.dll
+C:\VETS\Calculations #1.5\FrameGrabber\bin\Debug\JockerSoft.Media.pdb
+C:\VETS\Calculations #1.5\FrameGrabber\bin\Debug\Interop.DexterLib.dll
+C:\VETS\Calculations #1.5\FrameGrabber\obj\Debug\ResolveAssemblyReference.cache
+C:\VETS\Calculations #1.5\FrameGrabber\obj\Debug\Interop.DexterLib.dll
+C:\VETS\Calculations #1.5\FrameGrabber\obj\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS\Calculations #1.5\FrameGrabber\obj\Debug\JockerSoft.Media.dll
+C:\VETS\Calculations #1.5\FrameGrabber\obj\Debug\JockerSoft.Media.pdb
+C:\VETS\Calculations #1.6\FrameGrabber\bin\Debug\JockerSoft.Media.dll
+C:\VETS\Calculations #1.6\FrameGrabber\bin\Debug\JockerSoft.Media.pdb
+C:\VETS\Calculations #1.6\FrameGrabber\bin\Debug\Interop.DexterLib.dll
+C:\VETS\Calculations #1.6\FrameGrabber\obj\Debug\ResolveAssemblyReference.cache
+C:\VETS\Calculations #1.6\FrameGrabber\obj\Debug\Interop.DexterLib.dll
+C:\VETS\Calculations #1.6\FrameGrabber\obj\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS\Calculations #1.6\FrameGrabber\obj\Debug\JockerSoft.Media.dll
+C:\VETS\Calculations #1.6\FrameGrabber\obj\Debug\JockerSoft.Media.pdb
+C:\VETS\Calculations #1.7\FrameGrabber\bin\Debug\JockerSoft.Media.dll
+C:\VETS\Calculations #1.7\FrameGrabber\bin\Debug\JockerSoft.Media.pdb
+C:\VETS\Calculations #1.7\FrameGrabber\bin\Debug\Interop.DexterLib.dll
+C:\VETS\Calculations #1.7\FrameGrabber\obj\Debug\ResolveAssemblyReference.cache
+C:\VETS\Calculations #1.7\FrameGrabber\obj\Debug\Interop.DexterLib.dll
+C:\VETS\Calculations #1.7\FrameGrabber\obj\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS\Calculations #1.7\FrameGrabber\obj\Debug\JockerSoft.Media.dll
+C:\VETS\Calculations #1.7\FrameGrabber\obj\Debug\JockerSoft.Media.pdb
+C:\VETS\Calculations #1.8\FrameGrabber\bin\Debug\JockerSoft.Media.dll
+C:\VETS\Calculations #1.8\FrameGrabber\bin\Debug\JockerSoft.Media.pdb
+C:\VETS\Calculations #1.8\FrameGrabber\bin\Debug\Interop.DexterLib.dll
+C:\VETS\Calculations #1.8\FrameGrabber\obj\Debug\ResolveAssemblyReference.cache
+C:\VETS\Calculations #1.8\FrameGrabber\obj\Debug\Interop.DexterLib.dll
+C:\VETS\Calculations #1.8\FrameGrabber\obj\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS\Calculations #1.8\FrameGrabber\obj\Debug\JockerSoft.Media.dll
+C:\VETS\Calculations #1.8\FrameGrabber\obj\Debug\JockerSoft.Media.pdb
+C:\VETS\Calculations #1.9 - Full Report\FrameGrabber\bin\Debug\JockerSoft.Media.dll
+C:\VETS\Calculations #1.9 - Full Report\FrameGrabber\bin\Debug\JockerSoft.Media.pdb
+C:\VETS\Calculations #1.9 - Full Report\FrameGrabber\bin\Debug\Interop.DexterLib.dll
+C:\VETS\Calculations #1.9 - Full Report\FrameGrabber\obj\Debug\ResolveAssemblyReference.cache
+C:\VETS\Calculations #1.9 - Full Report\FrameGrabber\obj\Debug\Interop.DexterLib.dll
+C:\VETS\Calculations #1.9 - Full Report\FrameGrabber\obj\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS\Calculations #1.9 - Full Report\FrameGrabber\obj\Debug\JockerSoft.Media.dll
+C:\VETS\Calculations #1.9 - Full Report\FrameGrabber\obj\Debug\JockerSoft.Media.pdb
+C:\VETS Source Code\Calculations #1.9 - Full Report\FrameGrabber\bin\Debug\JockerSoft.Media.dll
+C:\VETS Source Code\Calculations #1.9 - Full Report\FrameGrabber\bin\Debug\JockerSoft.Media.pdb
+C:\VETS Source Code\Calculations #1.9 - Full Report\FrameGrabber\bin\Debug\Interop.DexterLib.dll
+C:\VETS Source Code\Calculations #1.9 - Full Report\FrameGrabber\obj\Debug\ResolveAssemblyReference.cache
+C:\VETS Source Code\Calculations #1.9 - Full Report\FrameGrabber\obj\Debug\Interop.DexterLib.dll
+C:\VETS Source Code\Calculations #1.9 - Full Report\FrameGrabber\obj\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS Source Code\Calculations #1.9 - Full Report\FrameGrabber\obj\Debug\JockerSoft.Media.dll
+C:\VETS Source Code\Calculations #1.9 - Full Report\FrameGrabber\obj\Debug\JockerSoft.Media.pdb
+C:\VETS Source Code\Calculations #1.9 - Full Report - Copy\FrameGrabber\bin\Debug\JockerSoft.Media.dll
+C:\VETS Source Code\Calculations #1.9 - Full Report - Copy\FrameGrabber\bin\Debug\JockerSoft.Media.pdb
+C:\VETS Source Code\Calculations #1.9 - Full Report - Copy\FrameGrabber\bin\Debug\Interop.DexterLib.dll
+C:\VETS Source Code\Calculations #1.9 - Full Report - Copy\FrameGrabber\obj\Debug\ResolveAssemblyReference.cache
+C:\VETS Source Code\Calculations #1.9 - Full Report - Copy\FrameGrabber\obj\Debug\Interop.DexterLib.dll
+C:\VETS Source Code\Calculations #1.9 - Full Report - Copy\FrameGrabber\obj\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS Source Code\Calculations #1.9 - Full Report - Copy\FrameGrabber\obj\Debug\JockerSoft.Media.dll
+C:\VETS Source Code\Calculations #1.9 - Full Report - Copy\FrameGrabber\obj\Debug\JockerSoft.Media.pdb
+C:\VETS Source Code\Calculations Package\FrameGrabber\bin\Debug\JockerSoft.Media.dll
+C:\VETS Source Code\Calculations Package\FrameGrabber\bin\Debug\JockerSoft.Media.pdb
+C:\VETS Source Code\Calculations Package\FrameGrabber\bin\Debug\Interop.DexterLib.dll
+C:\VETS Source Code\Calculations Package\FrameGrabber\obj\Debug\ResolveAssemblyReference.cache
+C:\VETS Source Code\Calculations Package\FrameGrabber\obj\Debug\Interop.DexterLib.dll
+C:\VETS Source Code\Calculations Package\FrameGrabber\obj\Debug\FrameGrabber.csproj.ResolveComReference.cache
+C:\VETS Source Code\Calculations Package\FrameGrabber\obj\Debug\JockerSoft.Media.dll
+C:\VETS Source Code\Calculations Package\FrameGrabber\obj\Debug\JockerSoft.Media.pdb

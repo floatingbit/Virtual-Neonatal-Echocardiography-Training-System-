@@ -1,0 +1,24 @@
+C:\Projects\VETS 4D\FrameGrabber\bin\x64\Release\JockerSoft.Media.dll
+C:\Projects\VETS 4D\FrameGrabber\bin\x64\Release\Interop.DexterLib.dll
+C:\Projects\VETS 4D\FrameGrabber\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Projects\VETS 4D\FrameGrabber\obj\x64\Release\Interop.DexterLib.dll
+C:\Projects\VETS 4D\FrameGrabber\obj\x64\Release\FrameGrabber.csproj.ResolveComReference.cache
+C:\Projects\VETS 4D\FrameGrabber\obj\x64\Release\JockerSoft.Media.dll
+C:\Projects\Backups\VETS 4D\FrameGrabber\bin\x64\Release\JockerSoft.Media.dll
+C:\Projects\Backups\VETS 4D\FrameGrabber\bin\x64\Release\Interop.DexterLib.dll
+C:\Projects\Backups\VETS 4D\FrameGrabber\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Projects\Backups\VETS 4D\FrameGrabber\obj\x64\Release\Interop.DexterLib.dll
+C:\Projects\Backups\VETS 4D\FrameGrabber\obj\x64\Release\FrameGrabber.csproj.ResolveComReference.cache
+C:\Projects\Backups\VETS 4D\FrameGrabber\obj\x64\Release\JockerSoft.Media.dll
+C:\Users\dghosh\Documents\Backup SimEcho Source after PAS\VETS 4D\FrameGrabber\bin\x64\Release\JockerSoft.Media.dll
+C:\Users\dghosh\Documents\Backup SimEcho Source after PAS\VETS 4D\FrameGrabber\bin\x64\Release\Interop.DexterLib.dll
+C:\Users\dghosh\Documents\Backup SimEcho Source after PAS\VETS 4D\FrameGrabber\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\dghosh\Documents\Backup SimEcho Source after PAS\VETS 4D\FrameGrabber\obj\x64\Release\Interop.DexterLib.dll
+C:\Users\dghosh\Documents\Backup SimEcho Source after PAS\VETS 4D\FrameGrabber\obj\x64\Release\FrameGrabber.csproj.ResolveComReference.cache
+C:\Users\dghosh\Documents\Backup SimEcho Source after PAS\VETS 4D\FrameGrabber\obj\x64\Release\JockerSoft.Media.dll
+C:\Users\dghosh\Documents\Source code Backups\Backup SimEcho Source after PAS\VETS 4D\FrameGrabber\bin\x64\Release\JockerSoft.Media.dll
+C:\Users\dghosh\Documents\Source code Backups\Backup SimEcho Source after PAS\VETS 4D\FrameGrabber\bin\x64\Release\Interop.DexterLib.dll
+C:\Users\dghosh\Documents\Source code Backups\Backup SimEcho Source after PAS\VETS 4D\FrameGrabber\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\dghosh\Documents\Source code Backups\Backup SimEcho Source after PAS\VETS 4D\FrameGrabber\obj\x64\Release\Interop.DexterLib.dll
+C:\Users\dghosh\Documents\Source code Backups\Backup SimEcho Source after PAS\VETS 4D\FrameGrabber\obj\x64\Release\FrameGrabber.csproj.ResolveComReference.cache
+C:\Users\dghosh\Documents\Source code Backups\Backup SimEcho Source after PAS\VETS 4D\FrameGrabber\obj\x64\Release\JockerSoft.Media.dll
